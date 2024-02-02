@@ -52,3 +52,4 @@ else{
   }
 
 export default App
+// I have completed the Counter App.
